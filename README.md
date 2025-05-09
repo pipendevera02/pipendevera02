@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Stephen Jasper C. de Vera!
 
-<!--
-**pipendevera02/pipendevera02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 25-year-old Information Technology graduate with a passion for technology, problem-solving, and continuous learning. 
+💡 I'm currently seeking opportunities to grow as a developer and contribute to meaningful projects.  
+🚀 Eager to build real-world applications, improve my coding skills, and explore the world of software development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+- 🎓 Fresh graduate in Information Technology
+- 💻 Interested in web development, software engineering, and automation
+- 🌱 Currently learning:
+  - 📊 Data wrangling and analysis with `pandas` & `numpy`
+  - 📈 Data visualization with `matplotlib`, `seaborn`, and `Power BI`
+  - 🗃️ Writing efficient SQL queries for data extraction
+  - 🧼 Data cleaning and preprocessing best practices
+  - 🧠 Foundations of statistics for data analysis
+- 📫 How to reach me: sjdevera070299@gmail.com
